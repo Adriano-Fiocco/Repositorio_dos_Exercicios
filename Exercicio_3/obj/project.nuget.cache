@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3+zURzxKmXjtP/D4V9pLecNvFqfeZrCtl5NQKY3t0hYDOebaqInCkcqHArWHaubuXUFQyil7MBw8ZGLFC6/uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\Exercicios_teste\\Exercicio_3\\Exercicio_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

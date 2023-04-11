@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\bin\Debug\net7.0\Exercicio_2.exe
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\bin\Debug\net7.0\Exercicio_2.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\bin\Debug\net7.0\Exercicio_2.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\bin\Debug\net7.0\Exercicio_2.dll
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\bin\Debug\net7.0\Exercicio_2.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.dll
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\refint\Exercicio_2.dll
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\Exercicio_2.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\Exercicios_teste\Exercicio_2\obj\Debug\net7.0\ref\Exercicio_2.dll
